@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open-source data analytics projects, Power BI dashboards, and Python automation scripts.
 - 🤔 I’m looking for help with advanced machine learning concepts and best practices in data science workflows.
 - 💬 Ask me about international insurance operations, AMS360/EPIC workflows, and transitioning from operations into data analytics.
-- 📫 How to reach me: shailu91993@gmail.com
+- 📫 How to reach me: shailu91993@gmail.com or 7803049104
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love continuous learning and taking on new technical challenges!
 # 💫 About Me:
